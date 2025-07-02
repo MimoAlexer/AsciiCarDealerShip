@@ -1,4 +1,4 @@
-struct CarFrame {
+pub struct CarFrame {
     string: String,
 }
 

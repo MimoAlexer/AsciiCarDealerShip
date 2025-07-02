@@ -1,1 +1,1 @@
-mod car_frame;
+pub mod car_frame;
